@@ -1,5 +1,4 @@
 print ("Logi  c Gate Simulation")
-class gate
     
 class andgate():
     def AND (a,b):
